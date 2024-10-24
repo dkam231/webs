@@ -1,6 +1,6 @@
 /* Apply styles to h1 and p tags */
 h1, p {
-    font-family: Arial, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #333;
 }
 
@@ -14,12 +14,12 @@ h1, p {
 /* Style for links */
 a {
     color: #1470d2;
-    text-decoration: none;
+    text-decoration: hotpink;
 }
 
 /* Hover effect for links */
 a:hover {
-    color: rgb(239, 52, 52);
+    color: rgb(249, 16, 16);
     text-decoration: underline;
 }
 
@@ -27,7 +27,7 @@ a:hover {
 #introduction {
     margin: 20px;
     padding: 20px;
-    background-color: #f9f9f9;
+    background-color: #a9f9f9;
     border-radius: 8px;
 }
 
