@@ -1,0 +1,39 @@
+/* Apply styles to h1 and p tags */
+h1, p {
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+/* Style for sections */
+.section {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+/* Style for links */
+a {
+    color: #1470d2;
+    text-decoration: none;
+}
+
+/* Hover effect for links */
+a:hover {
+    color: rgb(239, 52, 52);
+    text-decoration: underline;
+}
+
+/* Box model adjustments for #introduction */
+#introduction {
+    margin: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+}
+
+/* Style for profile image */
+#profile-image {
+    width: 150px;
+    height: auto;
+    border-radius: 50%;
+}
